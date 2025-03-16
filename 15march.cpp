@@ -1,3 +1,6 @@
+#include <vector>
+#include <algorithm>
+using namespace std;
 class Solution {
     private:
         bool isValid(int mid, vector<int>& nums, int k, int n) {
